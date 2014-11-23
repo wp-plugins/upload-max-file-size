@@ -56,6 +56,8 @@ function upload_max_file_size() {
 		<br/><br/>
 		(You can Increase Upload file size 250MB or more .So Enter the bytes value how much you want.. )
 		<br/><br/><br/>
+		Please read the help.txt file .This is very important file so you can find this file from our plugin dir..
+		<br/><br/><br/>
 		Thank you so much Enjoy!...
 		<br/><br/><br/>
 	
