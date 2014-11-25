@@ -1,6 +1,6 @@
 === Increase Max  Upload Filesize ===
 Contributors: Ashutosh Kumar
-Tags: increase, upload, limit, up to, 250Mb
+Tags: upload max filesize, increase filesize, upload_max_filesize, post max size, upload limit, upload file size up to 250Mb,php.ini, php5.ini, .user.ini
 Requires at least: 3.0.1
 Tested up to: 4.0
 Stable tag: 1.1
